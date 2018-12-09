@@ -23,6 +23,16 @@ https://blog.csdn.net/zwqjoy/article/details/79197019
 
 https://www.jiqizhixin.com/articles/071502
 
+# 4. 卷积和池化的原理
+
+https://www.jianshu.com/p/d47910ee2ed9
+
+http://www.hankcs.com/ml/understanding-the-convolution-in-deep-learning.html
+
+https://www.cnblogs.com/charlotte77/p/7759802.html
+
+
+
 
 
 
