@@ -3,7 +3,7 @@
 
 # 1. 梯度消失、梯度爆炸
 
-!https://blog.csdn.net/qq_25737169/article/details/78847691.
+https://blog.csdn.net/qq_25737169/article/details/78847691
 
 !https://blog.csdn.net/weixin_37933986/article/details/69255863.
 
